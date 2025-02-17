@@ -10,7 +10,7 @@
 	<h1 class="h1">OpenTelemetry SemConv Finder</h1>
 	<svelte:fragment slot="trail">
 		<div class="corner">
-			<a href="https://github.com/sveltejs/kit">
+			<a href="https://github.com/mrasu/opentelemetry-semconv-finder" target="_blank">
 				<img src={github} alt="GitHub" />
 			</a>
 		</div></svelte:fragment
